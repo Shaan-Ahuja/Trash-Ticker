@@ -9,7 +9,7 @@ Criteria: best/worst weekly/daily performance
 Specific Stocks: we chose our employers, but you can use any of your favorite public companies
  
 ### Example Texts
-![Trash_Ticker_Example_Text](https://github.com/Shaan-Ahuja/Trash-Ticker/assets/82416480/b762b58e-882f-47f1-99b2-979c7ded784a  | width=100 )
+![Trash_Ticker_Example_Text](https://github.com/Shaan-Ahuja/Trash-Ticker/assets/82416480/b762b58e-882f-47f1-99b2-979c7ded784a)
 
 User installation instructions
 
