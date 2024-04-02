@@ -46,9 +46,9 @@ Purchase a Twilio phone number, which will be used as MY_TWILIO_NUMBER.
 #### 3. Python Libraries:
 Install the necessary Python libraries using the following command:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 This will install dotenv, yfinance, and twilio.
 
 
