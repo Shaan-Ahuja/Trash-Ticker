@@ -9,13 +9,14 @@ Criteria: best/worst weekly/daily performance
 Specific Stocks: we chose our employers, but you can use any of your favorite public companies
  
 ### Example Texts
-![Trash_Ticker_Example_Text](https://github.com/Shaan-Ahuja/Trash-Ticker/assets/82416480/b762b58e-882f-47f1-99b2-979c7ded784a)
+<img src="https://github.com/Shaan-Ahuja/Trash-Ticker/assets/82416480/b762b58e-882f-47f1-99b2-979c7ded784a" width="300">
 
-User installation instructions
 
-- Required packages
-- Twilio Set-up 
-- Automated execution - Cron tab
-  - Windows Instructions
+### User installation instructions
+
+Required packages
+Twilio Set-up 
+Automated execution - Cron tab
+Windows Instructions
 
 
