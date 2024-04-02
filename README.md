@@ -23,13 +23,11 @@ The script uses environment variables to manage sensitive information. You will 
 ACCOUNT_SID: Your Twilio account SID.
 AUTH_TOKEN: Your Twilio authentication token.
 MY_TWILIO_NUMBER: The Twilio phone number used to send texts.
-ROOMATE_1_NUMBER, ROOMATE_2_NUMBER, ROOMATE_3_NUMBER: The phone numbers of the roommates who will receive the trash duty notification. Add as many as needed.
+ROOMATE_1_NUMBER, ROOMATE_2_NUMBER, ROOMATE_3_NUMBER: The phone numbers of the roommates, add as many as needed.
 ```
 
 Example .env file content:
 ```
-plaintext
-Copy code
 ACCOUNT_SID=your_account_sid_here
 AUTH_TOKEN=your_auth_token_here
 MY_TWILIO_NUMBER=your_twilio_number_here
